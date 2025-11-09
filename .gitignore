@@ -140,3 +140,6 @@ wandb/
 */test
 */train.zip
 */test.zip
+
+.data/VisDiffBench
+.data/VisDiffBench.zip
